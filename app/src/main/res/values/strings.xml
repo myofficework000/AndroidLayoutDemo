@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConstarintLayoutExamples</string>
+    <string name="save_details">Save details</string>
+    <string name="section_1">Section 1</string>
+    <string name="section_2">Section 2</string>
+    <string name="section_3">Section 3</string>
+    <string name="header">Header</string>
+    <string name="footer">Footer</string>
+    <string name="fourth">Fourth</string>
+    <string name="third">Third</string>
+    <string name="second">Second</string>
+    <string name="first">First</string>
+    <string name="center">Center</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
